@@ -1,0 +1,8 @@
+# ignore checkpoint file
+*-checkpoint.ipynb
+
+# ignore config file (don't show creds on GitHub)
+config.py
+
+# ignore pycache directory
+__pycache__
