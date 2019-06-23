@@ -6,3 +6,7 @@ config.py
 
 # ignore pycache directory
 __pycache__
+
+
+#KTB
+*.ipynb_checkpoints
