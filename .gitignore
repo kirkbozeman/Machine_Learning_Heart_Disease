@@ -9,4 +9,4 @@ __pycache__
 
 
 #KTB
-*.ipynb_checkpoints
+*.ipynb_checkpoints*
