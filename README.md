@@ -7,8 +7,7 @@
 ### Current project inventory includes: ###
 
 #### Cleveland_Heart_Disease_Dataset ####
-Examination of the public health dataset available at http://archive.ics.uci.edu/ml/datasets/heart+disease using supervised classification models.
-
+Examination of the public health dataset available at http://archive.ics.uci.edu/ml/datasets/heart+disease using supervised classification techniques.
 
 #### Sleep_Cycle_Data ####
-Examination of >3 years of personal sleep data collected using the SleepCycle iphone app.
+Examination of >3 years of personal sleep data collected using the SleepCycle iphone app using supervised regression techniques.
