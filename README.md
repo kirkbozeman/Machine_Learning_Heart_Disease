@@ -9,5 +9,5 @@
 #### Cleveland_Heart_Disease_Dataset ####
 Examination of the public health dataset available at http://archive.ics.uci.edu/ml/datasets/heart+disease using supervised classification techniques.
 
-#### Sleep_Cycle_Data ####
+#### Sleep_Cycle_Dataset ####
 Examination of >3 years of personal sleep data collected using the SleepCycle iphone app using supervised regression techniques.
